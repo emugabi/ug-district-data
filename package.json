@@ -1,0 +1,25 @@
+{
+  "name": "excelupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-debug-log": "^0.7.0",
+    "axios-rate-limit": "^1.2.1",
+    "body-parser": "^1.15.1",
+    "events": "^3.1.0",
+    "express": "^4.13.4",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "lodash": "^4.17.15",
+    "multer": "^1.1.0",
+    "xlsx": "^0.15.1"
+  }
+}
