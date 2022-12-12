@@ -15,7 +15,7 @@
     "axios-rate-limit": "^1.2.1",
     "body-parser": "^1.15.1",
     "events": "^3.1.0",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "lodash": "^4.17.15",
